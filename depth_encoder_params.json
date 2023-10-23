@@ -1,0 +1,14 @@
+{
+    "_filter_types": [
+        "barthann",
+        "bartlett",
+        "boxcar",
+        "hamming",
+        "hann"
+    ],
+    "clipping_min": 0.5,
+    "counts_per_mm": 25,
+    "diff_counts_while_loading": 15,
+    "filter_size": 11,
+    "filter_type": "hann"
+}
