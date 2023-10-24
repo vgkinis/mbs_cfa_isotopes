@@ -31,7 +31,6 @@ plt.rc('ytick', labelsize = mylabelsize)
 plt.rc('xtick', labelsize = mylabelsize)
 plt.rc('axes', labelsize = mylabelsize)
 
-
 plt.close("all")
 root = Tk()
 root.withdraw()
