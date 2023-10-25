@@ -1,9 +1,10 @@
 import sys
-sys.path.append("/home/vasileios/")
-sys.path.append("/home/vasilis/")
-import vaspy
-from vaspy import syttensen
-import vaspy.syttensen.bunch_syttensen as bunch_syttensen
+# sys.path.append("/home/vasileios/")
+# sys.path.append("/home/vasilis/")
+# import vaspy
+# from vaspy import syttensen
+# import vaspy.syttensen.bunch_syttensen as bunch_syttensen
+import bunch_syttensen
 import numpy as np
 import matplotlib.pyplot as plt
 import time
